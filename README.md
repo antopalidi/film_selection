@@ -9,13 +9,13 @@
 Clone repo:
 
 ```
-git clone https://github.com/antopalidi/magic_ball.git
+git clone https://github.com/antopalidi/film_selection.git
 ```
 Enter the folder
 ```
-cd magic_ball
+cd film_selection
 ```
 ##### Game run:
 ```
-$ magic_ball.rb
+$ main.rb
 ```
