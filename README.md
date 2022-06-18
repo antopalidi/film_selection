@@ -15,7 +15,7 @@ Enter the folder
 ```
 cd film_selection
 ```
-##### Game run:
+Game run:
 ```
 $ main.rb
 ```
